@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>agurodriguez</string>
 	<key>Builder Version</key>
-	<string>13605.1.33.1.4</string>
+	<string>13606.2.11</string>
 	<key>CFBundleDisplayName</key>
 	<string>Bitcoin Address Balance Tooltip</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Content</key>
